@@ -1,0 +1,9 @@
+npm init -y
+npm install -D hardhat
+npx hardhat (create empty config)
+npx hardhat help
+npm install -D @nomiclabs/hardhat-ethers ethers @nomiclabs/hardhat-w
+affle ethereum-waffle chai (installs minimalistic deps)
+npx hardhat run scripts/deploy.js (migrations)
+npx hardhat node (starts local blockchain ganache with 20 accounts)
+

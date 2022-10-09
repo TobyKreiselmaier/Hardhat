@@ -1,0 +1,7 @@
+node_modules/
+build/
+.idea
+.DS_Store
+contracts/.DS_Store
+--remix-ide
+.secret
